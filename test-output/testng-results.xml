@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10751" started-at="2019-06-08T04:38:44Z" finished-at="2019-06-08T04:38:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10751" started-at="2019-06-08T04:38:44Z" finished-at="2019-06-08T04:38:55Z">
+      <class name="com.whirlpool.windchillautomation.qa.testcases.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.whirlpool.windchillautomation.qa.testcases.LoginTest@5c7fa833]" name="setup" is-config="true" duration-ms="7385" started-at="2019-06-08T10:08:44Z" finished-at="2019-06-08T10:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="NaviagateToFolderPage()[pri:0, instance:com.whirlpool.windchillautomation.qa.testcases.LoginTest@5c7fa833]" name="NaviagateToFolderPage" duration-ms="3354" started-at="2019-06-08T10:08:51Z" finished-at="2019-06-08T10:08:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NaviagateToFolderPage -->
+      </class> <!-- com.whirlpool.windchillautomation.qa.testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
